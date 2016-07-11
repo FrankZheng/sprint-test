@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: xzheng.com
+Build-Jdk: 1.8.0_31
+Built-By: xzheng
+Created-By: IntelliJ IDEA
+Main-Class: ${start-class}
+
